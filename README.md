@@ -1,4 +1,5 @@
 # demo-project
 this is my first git repository
 <br>
-author devashay
+author devashay bhai
+
